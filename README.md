@@ -1,6 +1,6 @@
-# Udacity-Computer-Vision-Nanodegree
+# Computer-Vision-Nanodegree
 
-Program outline:
+## Program outline:
 
 This Nanodegree program is broken into three main sections:
 
@@ -13,3 +13,6 @@ This Nanodegree program is broken into three main sections:
 Nanodegree Link:
 
 https://www.udacity.com/course/computer-vision-nanodegree--nd891
+
+
+![image](https://user-images.githubusercontent.com/36210723/66694758-b91b6600-ecbf-11e9-9d21-d36313861f9b.png)
